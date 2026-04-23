@@ -1,6 +1,7 @@
 # Alessandro Osti
 
-Senior backend developer with 25+ years of experience, now focused on AI engineering.
+Senior backend developer with 25+ years of experience. I integrate AI engineering 
+into my work — not as a pivot, but as the next layer on top of a solid foundation.
 
 I build things that run in production for a long time. MAOTrade has been live since 2012.
 ARIA is my current project: a conversational AI system with RAG architecture,
