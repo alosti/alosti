@@ -30,7 +30,7 @@ MBA in Finance. Based in Correggio, Reggio Emilia. Full remote.
 
 ## Find me
 
-- [maotrade.it](https://maotrade.it)
 - [alosti.dev](https://alosti.dev)
+- [maotrade.it](https://maotrade.it)
 - [linkedin.com/in/alosti](https://linkedin.com/in/alosti)
-- alosti@maotrade.it
+- alessandro.osti@alosti.dev
